@@ -47,6 +47,7 @@ group :test do
   gem 'shoulda-matchers', '~> 3.1'
   gem 'factory_girl_rails'
   gem 'faker'
+  gem 'spring-commands-rspec'
 end
 
 gem 'devise'
